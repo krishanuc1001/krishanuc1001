@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-😄 Pronouns: He/ Him/ His<br>🔭 I’m currently working as a Senior Consultant QA @Thoughtworks, India<br>🌱 I’m currently learning about: <br> gRPC, Protocol Buffer, Playwright-Javascript, Selenide, Gitlab CI/CD, AWS, K8s, Terraform<br>💬 Ask me about Testing, Strategy, Automation testing (Web, Mobile, API), Performance testing<br>📫 How to reach me: https://www.linkedin.com/in/krishanu-chakraborty/<br>⚡ Fun fact: I like to implement Home automation devices using Alexa and Google Home, <br>     I am a gadget nerd
+😄 Pronouns: He/ Him/ His<br>🔭 I’m currently working as a Senior Consultant QA @Thoughtworks, India<br>🌱 I’m currently learning about: <br> gRPC, Protocol Buffer, Playwright-Javascript, Selenide, Gitlab CI/CD, AWS, K8s, Terraform<br>💬 Ask me about Testing, Strategy, Automation testing (Web, Mobile, API), Performance testing, Infrastructure | DevOps, AWS<br>📫 How to reach me: https://www.linkedin.com/in/krishanu-chakraborty/<br>⚡ Fun fact: I like to implement Home automation devices using Alexa and Google Home, <br>     I am a gadget nerd
 
 
 ## 🌐 Socials:
